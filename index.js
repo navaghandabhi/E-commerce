@@ -1,9 +1,14 @@
-/**
- * @format
- */
+import { AppRegistry } from 'react-native';
+import App from './src/Routes/StackNavigator';
+import { PaperProvider } from 'react-native-paper'
+import { name as appName } from './app.json';
 
-import {AppRegistry} from 'react-native';
-import App from './App';
-import {name as appName} from './app.json';
-
-AppRegistry.registerComponent(appName, () => App);
+const Main = () => {
+    return (
+        <PaperProvider>
+            <App></App>
+        </PaperProvider>
+    )
+}
+// AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => Main);

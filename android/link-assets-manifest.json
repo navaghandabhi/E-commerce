@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Merriweather-Black.ttf",
+      "sha1": "d62fa43472ef4248e8b447a0ff0ab283e0475448"
+    },
+    {
+      "path": "assets/fonts/Merriweather-BlackItalic.ttf",
+      "sha1": "555c92ba0bdddd8d3f9314c9e921e44ec55655ed"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Bold.ttf",
+      "sha1": "09c7429408c624b9991c44e9975a9129fb2d2fe7"
+    },
+    {
+      "path": "assets/fonts/Merriweather-BoldItalic.ttf",
+      "sha1": "2207b710d19eb9d57c6707eb5ba3938e4b3ec7b1"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Italic.ttf",
+      "sha1": "478b1c3fbc794a290270be7e4ec052e14a89579d"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Light.ttf",
+      "sha1": "74d9f537010e5ac0ffe25990d1433873d98c9339"
+    },
+    {
+      "path": "assets/fonts/Merriweather-LightItalic.ttf",
+      "sha1": "b79c74969d524acbf8ab3df59562b2db83450002"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Regular.ttf",
+      "sha1": "f4e7810e4e20d1932d3d7994bb6f6456280ee6bd"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "07ca4486c80653a7f3abc18145c2f251d5c9989b"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Light.ttf",
+      "sha1": "0d6fe8746125375ffd3ea4de6ecf062643a65c52"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Medium.ttf",
+      "sha1": "9cbdd6785519aa2d85ee58cb5101ea9dbff8652f"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "ba6e4d47926d643a8a4b509b193b3a87c3ea385d"
+    },
+    {
+      "path": "assets/fonts/Quicksand-SemiBold.ttf",
+      "sha1": "1f5c9cf95379bef6cee5f2a7deb393b157c91f4e"
+    }
+  ]
+}
