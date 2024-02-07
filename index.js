@@ -2,10 +2,10 @@ import { AppRegistry } from 'react-native';
 import App from './src/Routes/StackNavigator';
 import { PaperProvider } from 'react-native-paper'
 import { name as appName } from './app.json';
-
+import { Theme } from './src/data/Theme/theme';
 const Main = () => {
     return (
-        <PaperProvider>
+        <PaperProvider theme={Theme}> 
             <App></App>
         </PaperProvider>
     )

@@ -15,18 +15,19 @@ const BottomBar = () => {
         tabBarStyle: {
           height: 70,
           position: 'absolute',
-          bottom: 25,
-          left: 20,
-          right: 20,
+          // bottom: 25,
+          // left: 20,
+          // right: 20,
           backgroundColor: '#fff',
-          borderRadius: 15,
+          borderTopRightRadius:16,
+          borderTopLeftRadius:16
 
         },
         tabBarShowLabel: false,
         // tabBarActiveBackgroundColor: '#E36414',
         tabBarActiveTintColor: '#2B2A4C',
         tabBarInactiveTintColor: '#6962AD',
-
+        tabBarHideOnKeyboard: true,
         tabBarIcon: ({ focused, color, size }) => {
           let iconName = 'home';
           let rn = route.name;
